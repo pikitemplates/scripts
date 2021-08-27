@@ -89,15 +89,6 @@ kbd kbd{padding:0;font-size:100%;font-weight:700}
 pre{display:block;font-size:87.5%;color:#212529}
 pre code{font-size:inherit;color:inherit;word-break:normal}
 .pre-scrollable{max-height:340px;overflow-y:scroll}
-.container{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}
-@media (min-width:576px){.container{max-width:540px}
-}
-@media (min-width:768px){.container{max-width:720px}
-}
-@media (min-width:992px){.container{max-width:960px}
-}
-@media (min-width:1200px){.container{max-width:1140px}
-}
 .container-fluid{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}
 .row{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-right:-15px;margin-left:-15px}
 .no-gutters{margin-right:0;margin-left:0}
