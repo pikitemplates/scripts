@@ -25,8 +25,6 @@ button.btn-new:hover{background-color:#D6D6D7;color: #333 !important;}
 button:hover{color:white !important;}
 .imgCenter{display:block;margin:auto;}
 .footerImg{padding:15px;}
-.fa-youtube{color:#c32f10;transition-duration:.3s;}
-.fa-youtube:hover{color:#da3514;transition-duration:.3s;}
 .fab{margin:10px;}
 .socialWrapper{margin:auto;}
 .btnYT{margin:auto;margin-top:.5rem;width:100%;padding:.5rem;}
