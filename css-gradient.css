@@ -857,7 +857,7 @@ input[type=button].btn-block,input[type=reset].btn-block,input[type=submit].btn-
 .card-img-bottom{width:100%;border-bottom-right-radius:calc(.25rem - 1px);border-bottom-left-radius:calc(.25rem - 1px)}
 .card-deck{display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column}
 .card-deck .card{margin-bottom:15px}
-@media (min-width:880px){.flex-section{flex-direction:column;}}
+@media (max-width:880px){.flex-section{flex-direction:column;}}
 @media (min-width:576px){.card-deck{-ms-flex-flow:row wrap;flex-flow:row wrap;margin-right:-15px;margin-left:-15px}
 .card-deck .card{display:-ms-flexbox;display:flex;-ms-flex:1 0 0%;flex:1 0 0%;-ms-flex-direction:column;flex-direction:column;margin-right:15px;margin-bottom:0;margin-left:15px}
 }
