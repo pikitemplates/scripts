@@ -11,7 +11,7 @@
 p{text-align:center;text-align-last:center;}
 .jumbotron{text-align:center;background:none;}
 .carousel-control-next-icon,.carousel-control-prev-icon{background-color:aquamarine;padding:20px 20px;}
-.sectionLight{text-align:justify;background-color:#f4f4f4;padding:1rem;border-radius: 5px;}
+.sectionLight{text-align:justify;padding:1rem;border-radius: 5px;}
 .sectionDark{color:white;background-color:#343A40;padding:2rem;}
 .coolStuffWrapper{margin-top:20px;padding:2rem;}
 button.coolStuffBtn{display:block;margin:auto;background-color:red;color:#fff;}
