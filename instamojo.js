@@ -4,7 +4,7 @@
     </div>`:""),k=function(c,a){let b=a?B(a):a;return b?`<div class="desc-${c}">
       <p class="checkout-description">${b}</p>
     </div>`:""}(c,b.description),e=(h=c,i={product_id:(a=b).product_id,domain:a.domain,store_name:a.store_name,env:a.env,api:a.api},d=`<div class=${"bab_product_container_"+a.product_id}><div class="im-new-checkout btn-${h} bab-product-item-img ">
-      <a href="javascript:void(0)" class="im-checkout-btn" onClick=IM.showCart(`+JSON.stringify(i)+");>",a.verb&&""!==a.verb?d+=B(a.verb):d+="UPI Pay",d+="</a></div></div>");l.outerHTML=b.layout?`<div class="im-new-checkout-layout layout-${c}">
+      <a href="javascript:void(0)" class="im-checkout-btn" onClick=IM.showCart(`+JSON.stringify(i)+");>",a.verb&&""!==a.verb?d+=B(a.verb):d+="Pay",d+="</a></div></div>");l.outerHTML=b.layout?`<div class="im-new-checkout-layout layout-${c}">
         ${"vertical"===b.layout?`<div class="layout-vertical">
         ${j}
         ${k}
